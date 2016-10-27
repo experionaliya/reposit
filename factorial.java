@@ -9,5 +9,6 @@ for(i=1;i<=n;i++)
 f=f*i;
 }
 System.out.println("factorial is"+f);
+//changed
 }
 }
